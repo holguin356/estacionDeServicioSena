@@ -1,0 +1,97 @@
+ <thead>
+                <tr>
+                  <th scope="col" colspan="2">Servicio Gasolina</th>
+                </tr>
+              </thead>
+              <tr>
+                <th scope="row">Valor Producido AM</th>
+                <td>xxxxxxx</td>
+              </tr>
+              <tr>
+                <th scope="row">Cantidad de servicio AM</th>
+                <td>xx</td>
+              </tr>
+              <tr>
+                <th scope="row">Valor Producido PM</th>
+                <td>xxxxxxx</td>
+              </tr>
+              <tr>
+                <th scope="row">Cantidad de servicio PM</th>
+                <td>xx</td>
+              </tr>
+              <tr>
+                <th scope="row">Cantidad día</th>
+                <td>xx</td>
+              </tr>
+              <tr>
+                <th scope="row">Total día</th>
+                <td>xxxxxx</td>
+              </tr>
+              <!-- Montallantas -->
+              <tr>
+                <th scope="col" colspan="2">Servicio Montallantas</th>
+              </tr>
+              <tr>
+                <th scope="row">Valor Producido AM</th>
+                <td>xxxxxxx</td>
+              </tr>
+              <tr>
+                <th scope="row">Cantidad de servicio AM</th>
+                <td>xx</td>
+              </tr>
+              <tr>
+                <th scope="row">Valor Producido PM</th>
+                <td>xxxxxxx</td>
+              </tr>
+              <tr>
+                <th scope="row">Cantidad de servicio PM</th>
+                <td>xx</td>
+              </tr>
+              <tr>
+                <th scope="row">Cantidad día</th>
+                <td>xx</td>
+              </tr>
+              <tr>
+                <th scope="row">Total día</th>
+                <td>xxxxxx</td>
+              </tr>
+              <!-- Lavadero -->
+              <tr>
+                <th scope="col" colspan="2">Servicio Lavadero de autos</th>
+              </tr>
+              <tr>
+                <th scope="row">Valor Producido AM</th>
+                <td>xxxxxxx</td>
+              </tr>
+              <tr>
+                <th scope="row">Cantidad de servicio AM</th>
+                <td>xx</td>
+              </tr>
+              <tr>
+                <th scope="row">Valor Producido PM</th>
+                <td>xxxxxxx</td>
+              </tr>
+              <tr>
+                <th scope="row">Cantidad de servicio PM</th>
+                <td>xx</td>
+              </tr>
+              <tr>
+                <th scope="row">Cantidad día</th>
+                <td>xx</td>
+              </tr>
+              <tr>
+                <th scope="row">Total día</th>
+                <td>xxxxxx</td>
+              </tr>
+              <!-- maximos servicios -->
+              <tr>
+                <th scope="col" colspan="2">Servicio más prestado</th>
+              </tr>
+              <tr>
+                <th scope="row">Servicio AM</th>
+                <td>xxxxxxx</td>
+              </tr>
+              <tr>
+                <th scope="row">Servicio PM</th>
+                <td>xxxxxxx</td>
+              </tr>
